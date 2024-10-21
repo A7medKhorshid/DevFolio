@@ -1,0 +1,21 @@
+@media only screen and (max-width: 500px){
+    #image{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    #statcs .inner{
+        padding: 2rem 0;
+    }
+
+    #pd-about{
+    padding-left: 30px ;
+    padding-right: 30px;
+    } 
+
+    #pd-about2{
+        padding-left: 30px ;
+        padding-right: 30px;
+    } 
+}
